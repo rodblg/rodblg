@@ -16,7 +16,6 @@
  </h3>
  
 
-- 🔭 My next goal is to get my first AWS certification, also I’m currently learning about Microservices and RabbitMQ
 
 
 
