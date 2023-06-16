@@ -12,7 +12,7 @@
   
  <h3>Glad to see you here!</h3>
 
- <h3>I am Rodrigo. A passionate Backend Developer, currently growing with both Golang and Python.Open to collaborate on interesting and innovative projects.
+ <h3>I am Rodrigo, a Bionic Engineer who fell in love with the possibilities of Artificial Intelligence into Backend solutions, currently growing with both Golang and Python 🌱. Open to collaborate on interesting and innovative projects. 🔭
  </h3>
  
 
